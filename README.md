@@ -1,6 +1,6 @@
 ### Welcome to visit my Github 👋
 
- - 🌱 I’m currently learning Machine-Learning for Politics
+ - 🌱 I’m currently learning C programming. 
  - 😄 I'm learning Phyton3 using BOJ. The following is my level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=johnlocke)](https://solved.ac/johnlocke/)
